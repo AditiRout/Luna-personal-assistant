@@ -1,1 +1,1 @@
-# Luna-personal-assitant
+# Luna-personal-assistant
