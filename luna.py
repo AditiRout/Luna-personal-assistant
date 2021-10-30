@@ -12,12 +12,9 @@ import os
 import smtplib
 
 thisdict = {
-  "shruti": "+916370126201",
-  "sanju": "+918144486856",
-  "lopa":"+918249161264",
-  "amisha":"+918958635598",
-  "diya":"+918249214689",
-  "peri":"+91798904826"
+  "shruti": "+91phone no,here",
+  "sanju": "+91phone no.here",
+  
 }
 
 
